@@ -1,0 +1,1 @@
+import React from "react"; import { Card } from "../components/common/Card"; export function SettingsPage() { return ( <div className="space-y-6"> <Card className="p-6"><h2 className="text-xl font-bold">Settings</h2><p>Configuration panel coming soon.</p></Card> </div> ); }

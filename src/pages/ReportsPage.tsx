@@ -1,0 +1,1 @@
+import React from "react"; import { Card } from "../components/common/Card"; export function ReportsPage() { return ( <div className="space-y-6"> <Card className="p-6"><h2 className="text-xl font-bold">Reports & Analytics</h2><p>Analytics dashboard coming soon.</p></Card> </div> ); }
